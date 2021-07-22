@@ -1,9 +1,9 @@
 // README
 /*
-<Break/Inspo/Focus Student Set>              
- Tuka Alarbi
- Talarbi               
- 
+<Break/Inspo/Focus Student Set: BrInFo>              
+ BY: Tuka Alarbi
+ TYPE: School Project
+           
  INSTRUCTIONS
  
  <My program is designed as a multi-functional program. 
@@ -19,27 +19,10 @@
  the screen box option is clicked, just as the game, it is restarted with 'r' key and paused if 
  swithced to the Main page with the 'm' key.>
  
- CODING QUALITY AND VISUAL DESIGN
- 
- <The code that I am most proud of is the code for the game and the main page. 
- To make the transitions of each page with a click and use each screen seperatly
- took quite a while to figure out. As well as for the game, there are many parts to it
- and it was frustrating to make with the rest of the program but I am proud of how it looks 
- and functions. The quotes images part was difficult to make along with the sounds. 
- As each needed to play or display a certain way or time and there were a lot of images
- to preload and display>
- 
- VIDEO
- <https://www.youtube.com/watch?v=fVnUiSXHnjw&feature=youtu.be>                     
- There was a delay in the video because of the recorder so it didn't have the system sound 
- 
  REFRENCE                     
  <Quote images from @uwaterloolife instagram account>
  https://www.instagram.com/uwaterloolife/?hl=en  
  
- RELEASE
- I <Tuka Alarbi> grant permission to CS 105 course staff to use
- my Final Project program and video for the purpose of promoting CS 105.
  */
 
 let currentScreen;
