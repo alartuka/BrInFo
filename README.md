@@ -21,7 +21,7 @@
  the screen box option is clicked, just as the game, it is restarted with 'r' key and paused if 
  swithced to the Main page with the 'm' key.
  
- REFRENCE                     
+ REFERENCE                     
  <Quote images from @uwaterloolife instagram account>
  https://www.instagram.com/uwaterloolife/?hl=en  
  
