@@ -34,5 +34,5 @@
  
  
  ## PREVIEW:
- <a href="https://editor.p5js.org/talarbi/sketches/mFFcq7tFJ">Preview on P5.js editor.</a>
+ Preview on <a href="https://editor.p5js.org/talarbi/sketches/mFFcq7tFJ">P5.js editor.</a>
  
