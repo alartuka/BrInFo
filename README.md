@@ -1,5 +1,5 @@
 # BrInFo
- A multi-functional and student-centred program to focus, get inspired or take a break. Includes a 25 minutes timer, uw inspirational quotes collection random displayer, and a game.
+ A multi-functional and student-centred program to focus, get inspired or take a break. Includes a 25 minutes timer, quotes random generator, and a game.
  
  <h3>Break/Inspo/Focus Student Kit: BrInFo</h3>            
  
@@ -16,7 +16,7 @@
 
  The student is moved with key arrows, the game can be restarted with the 'r' key, and the main page is accessed with key letter 'm' to switch to the other screens. 
  
-  - The second screen, has the objective of displaying uwaterloo quotes for student inspirations. 
+  - The second screen, has the objective of generating random uwaterloo quotes for student inspirations. 
  
  On that screen, each time the button on the left is pressed, the new quote is randomly selected and displayed on the right. 
  
