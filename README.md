@@ -27,7 +27,8 @@
  
  ## DEMO Video:
 [Watch the video](https://user-images.githubusercontent.com/80016785/168874847-011f43a7-3c0c-4d31-8782-26ec1fa8b335.mp4)
-*Note: Sound was not recorded 
+
+*Note: Sound was not recorded* 
 
 ## REFERENCE                     
  Quote images from <a href="https://www.instagram.com/uwaterloolife/?hl=en">@uwaterloolife</a>  
