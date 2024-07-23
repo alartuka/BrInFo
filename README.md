@@ -3,7 +3,7 @@
  
  <h3>Break/Inspo/Focus Student Kit: BrInFo</h3>            
  
- *BY: Tuka Alarbi*
+ *BY: Tuka Alsharief [fka Tuka Alarbi]*
  
  Course Project Fall 2020 Submission
  
@@ -26,7 +26,7 @@
  
  
  ## DEMO Video:
-[Watch the video](https://user-images.githubusercontent.com/80016785/168874847-011f43a7-3c0c-4d31-8782-26ec1fa8b335.mp4)
+[Tuka Alsharief [fka Tuka Alarbi] | Watch the video](https://user-images.githubusercontent.com/80016785/168874847-011f43a7-3c0c-4d31-8782-26ec1fa8b335.mp4)
 
 *Note: Sound was not recorded* 
 
